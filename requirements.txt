@@ -1,0 +1,15 @@
+requests
+numpy==1.26.3
+setuptools 
+pandas 
+pandas_ta
+datetime
+flask
+yfinance
+quandl
+plotly
+streamlit
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
