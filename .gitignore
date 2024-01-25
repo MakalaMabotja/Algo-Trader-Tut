@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+algorithmic-trading/
+.ipynb_checkpoints/
+sp_500_stocks.csv
+**/secrets.py
+.DS_Store
+__pycache__
+**/recommended_trades.xlsx
+**/momentum_strategy.xlsx
+venv/
+
 # C extensions
 *.so
 
